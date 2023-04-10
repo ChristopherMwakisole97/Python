@@ -1,2 +1,2 @@
-print("What's your name")
-name =input("My name is " + name)
+name = input("What's your name? ")
+print("My name is " +name)
